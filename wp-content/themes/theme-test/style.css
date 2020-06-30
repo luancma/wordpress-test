@@ -1,0 +1,21 @@
+/*
+Theme Name: WP teste
+Theme URI:
+Author: Luan
+Author URI:
+Description: A new theme
+version: 1.0
+Text Domain: theme-test
+License: GNU General Public License V2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: Test
+*/
+
+.top-bar {
+  background:red;
+}
+
+
+footer{
+  background: green;
+}
